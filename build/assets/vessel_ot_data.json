@@ -1,0 +1,3463 @@
+{  "data": [ 
+  {
+
+  "grouping": "Vessel Class 2 Berth 6-9", 
+
+  "terminal": "OT", 
+
+  "service": "RTWSB", 
+
+  "name": "NORDPACIFIC", 
+
+  "lloyds_id": "9802487", 
+
+  "vsl_operator": "CMA CGM", 
+
+  "status": "INBOUND", 
+
+  "in_voyage": "RPCZS", 
+
+  "out_voyage": "RPCZS", 
+
+  "eta_date": " 04/27/23", 
+
+  "eta_time": "19:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 04/28/23", 
+
+  "etd_time": "06:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "OT_13", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": " 04/17/23", 
+
+  "dry_brd_time": "17:01", 
+
+  "reefer_brd_date": " 04/17/23", 
+
+  "reefer_brd_time": "17:01", 
+
+  "reefer_cutoff_date": " 04/26/23", 
+
+  "reefer_cutoff_time": "16:00", 
+
+  "cargo_cutoff_date": " 04/26/23", 
+
+  "cargo_cutoff_time": "16:00", 
+
+  "haz_cutoff_date": " 04/26/23", 
+
+  "haz_cutoff_time": "16:00", 
+
+  "is_locked": "Yes", 
+
+  "lines": [  {
+
+    "lname": "CMA CGM", 
+
+    "dry_brd_date": " 04/17/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 04/17/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 04/26/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 04/26/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 04/26/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+ ,{
+
+    "lname": "MARFRET USA INC", 
+
+    "dry_brd_date": " 04/17/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 04/17/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 04/26/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 04/26/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 04/26/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "SAE", 
+
+  "name": "SAN ALBERTO", 
+
+  "lloyds_id": "9344643", 
+
+  "vsl_operator": "SEALAND", 
+
+  "status": "INBOUND", 
+
+  "in_voyage": "316S", 
+
+  "out_voyage": "316S", 
+
+  "eta_date": " 04/28/23", 
+
+  "eta_time": "13:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 04/28/23", 
+
+  "etd_time": "23:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": " 04/18/23", 
+
+  "dry_brd_time": "17:01", 
+
+  "reefer_brd_date": " 04/18/23", 
+
+  "reefer_brd_time": "17:01", 
+
+  "reefer_cutoff_date": " 04/27/23", 
+
+  "reefer_cutoff_time": "16:00", 
+
+  "cargo_cutoff_date": " 04/27/23", 
+
+  "cargo_cutoff_time": "16:00", 
+
+  "haz_cutoff_date": " 04/27/23", 
+
+  "haz_cutoff_time": "16:00", 
+
+  "is_locked": "Yes", 
+
+  "lines": [  {
+
+    "lname": "MAERSK A/S DBA HAMBURG SUD", 
+
+    "dry_brd_date": " 04/18/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 04/18/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 04/27/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 04/27/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 04/27/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+ ,{
+
+    "lname": "MAERSK LINE LIMITED", 
+
+    "dry_brd_date": " 04/18/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 04/18/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 04/27/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 04/27/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 04/27/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+ ,{
+
+    "lname": "SEALAND", 
+
+    "dry_brd_date": " 04/18/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 04/18/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 04/27/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 04/27/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 04/27/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "NAE ACX", 
+
+  "name": "ZEBRA", 
+
+  "lloyds_id": "9231157", 
+
+  "vsl_operator": "SEALAND", 
+
+  "status": "INBOUND", 
+
+  "in_voyage": "315N", 
+
+  "out_voyage": "317S", 
+
+  "eta_date": " 04/29/23", 
+
+  "eta_time": "07:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 04/30/23", 
+
+  "etd_time": "06:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": " 04/18/23", 
+
+  "dry_brd_time": "17:01", 
+
+  "reefer_brd_date": " 04/18/23", 
+
+  "reefer_brd_time": "17:01", 
+
+  "reefer_cutoff_date": " 04/27/23", 
+
+  "reefer_cutoff_time": "16:00", 
+
+  "cargo_cutoff_date": " 04/27/23", 
+
+  "cargo_cutoff_time": "16:00", 
+
+  "haz_cutoff_date": " 04/27/23", 
+
+  "haz_cutoff_time": "16:00", 
+
+  "is_locked": "Yes", 
+
+  "lines": [  {
+
+    "lname": "MAERSK A/S DBA HAMBURG SUD", 
+
+    "dry_brd_date": " 04/18/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 04/18/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 04/27/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 04/27/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 04/27/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+ ,{
+
+    "lname": "MAERSK", 
+
+    "dry_brd_date": " 04/18/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 04/18/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 04/27/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 04/27/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 04/27/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+ ,{
+
+    "lname": "SEALAND", 
+
+    "dry_brd_date": " 04/18/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 04/18/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 04/27/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 04/27/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 04/27/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "G2ENAMEDOT", 
+
+  "name": "STAR ISTIND", 
+
+  "lloyds_id": "9182954", 
+
+  "vsl_operator": "G2 OCEAN (G2 OCEAN US, INC)", 
+
+  "status": "INBOUND", 
+
+  "in_voyage": "2303", 
+
+  "out_voyage": "2303", 
+
+  "eta_date": " 04/30/23", 
+
+  "eta_time": "07:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 04/30/23", 
+
+  "etd_time": "23:59", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": "", 
+
+  "dry_brd_time": "", 
+
+  "reefer_brd_date": "", 
+
+  "reefer_brd_time": "", 
+
+  "reefer_cutoff_date": "", 
+
+  "reefer_cutoff_time": "", 
+
+  "cargo_cutoff_date": "", 
+
+  "cargo_cutoff_time": "", 
+
+  "haz_cutoff_date": "", 
+
+  "haz_cutoff_time": "", 
+
+  "is_locked": "No", 
+
+  "lines": [    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "RTWNB", 
+
+  "name": "MARIUS", 
+
+  "lloyds_id": "9802504", 
+
+  "vsl_operator": "MARFRET USA INC", 
+
+  "status": "INBOUND", 
+
+  "in_voyage": "3506", 
+
+  "out_voyage": "3506", 
+
+  "eta_date": " 04/30/23", 
+
+  "eta_time": "08:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 04/30/23", 
+
+  "etd_time": "23:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": " 04/17/23", 
+
+  "dry_brd_time": "17:01", 
+
+  "reefer_brd_date": " 04/17/23", 
+
+  "reefer_brd_time": "17:01", 
+
+  "reefer_cutoff_date": " 04/26/23", 
+
+  "reefer_cutoff_time": "16:00", 
+
+  "cargo_cutoff_date": " 04/26/23", 
+
+  "cargo_cutoff_time": "16:00", 
+
+  "haz_cutoff_date": " 04/26/23", 
+
+  "haz_cutoff_time": "16:00", 
+
+  "is_locked": "Yes", 
+
+  "lines": [  {
+
+    "lname": "CMA CGM", 
+
+    "dry_brd_date": " 04/17/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 04/17/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 04/26/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 04/26/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 04/26/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "WLFNA", 
+
+  "name": "TORTUGAS", 
+
+  "lloyds_id": "9319765", 
+
+  "vsl_operator": "WALLENIUS WILHELMSEN", 
+
+  "status": "INBOUND", 
+
+  "in_voyage": "AF312", 
+
+  "out_voyage": "AF312", 
+
+  "eta_date": " 05/01/23", 
+
+  "eta_time": "07:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/01/23", 
+
+  "etd_time": "18:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": " 04/27/23", 
+
+  "dry_brd_time": "06:00", 
+
+  "reefer_brd_date": " 04/27/23", 
+
+  "reefer_brd_time": "06:00", 
+
+  "reefer_cutoff_date": "", 
+
+  "reefer_cutoff_time": "", 
+
+  "cargo_cutoff_date": "", 
+
+  "cargo_cutoff_time": "", 
+
+  "haz_cutoff_date": "", 
+
+  "haz_cutoff_time": "", 
+
+  "is_locked": "No", 
+
+  "lines": [    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "WLFNA", 
+
+  "name": "TALISMAN", 
+
+  "lloyds_id": "9191319", 
+
+  "vsl_operator": "WALLENIUS WILHELMSEN", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "AF307", 
+
+  "out_voyage": "AF307", 
+
+  "eta_date": " 05/02/23", 
+
+  "eta_time": "07:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/04/23", 
+
+  "etd_time": "18:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": " 04/27/23", 
+
+  "dry_brd_time": "06:00", 
+
+  "reefer_brd_date": " 04/27/23", 
+
+  "reefer_brd_time": "06:00", 
+
+  "reefer_cutoff_date": "", 
+
+  "reefer_cutoff_time": "", 
+
+  "cargo_cutoff_date": "", 
+
+  "cargo_cutoff_time": "", 
+
+  "haz_cutoff_date": "", 
+
+  "haz_cutoff_time": "", 
+
+  "is_locked": "No", 
+
+  "lines": [    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "CAGEMA", 
+
+  "name": "HAMBURG TRADER", 
+
+  "lloyds_id": "9316098", 
+
+  "vsl_operator": "CMA CGM", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "CAB2N", 
+
+  "out_voyage": "CAB7S", 
+
+  "eta_date": " 05/02/23", 
+
+  "eta_time": "08:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/02/23", 
+
+  "etd_time": "18:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": " 04/22/23", 
+
+  "dry_brd_time": "17:01", 
+
+  "reefer_brd_date": " 04/22/23", 
+
+  "reefer_brd_time": "17:01", 
+
+  "reefer_cutoff_date": " 05/01/23", 
+
+  "reefer_cutoff_time": "16:00", 
+
+  "cargo_cutoff_date": " 05/01/23", 
+
+  "cargo_cutoff_time": "16:00", 
+
+  "haz_cutoff_date": " 05/01/23", 
+
+  "haz_cutoff_time": "16:00", 
+
+  "is_locked": "Yes", 
+
+  "lines": [  {
+
+    "lname": "CMA CGM", 
+
+    "dry_brd_date": " 04/22/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 04/22/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 05/01/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 05/01/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 05/01/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "SMJS", 
+
+  "name": "AS SABRINA", 
+
+  "lloyds_id": "9387463", 
+
+  "vsl_operator": "SEABOARD MARINE LTD", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "00095", 
+
+  "out_voyage": "00096", 
+
+  "eta_date": " 05/03/23", 
+
+  "eta_time": "07:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/03/23", 
+
+  "etd_time": "18:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": " 04/23/23", 
+
+  "dry_brd_time": "17:01", 
+
+  "reefer_brd_date": " 04/23/23", 
+
+  "reefer_brd_time": "17:01", 
+
+  "reefer_cutoff_date": " 05/02/23", 
+
+  "reefer_cutoff_time": "16:00", 
+
+  "cargo_cutoff_date": " 05/02/23", 
+
+  "cargo_cutoff_time": "16:00", 
+
+  "haz_cutoff_date": " 05/02/23", 
+
+  "haz_cutoff_time": "16:00", 
+
+  "is_locked": "Yes", 
+
+  "lines": [  {
+
+    "lname": "SEABOARD MARINE LTD", 
+
+    "dry_brd_date": " 04/23/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 04/23/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 05/02/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 05/02/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 05/02/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "RTWNB", 
+
+  "name": "SEATRADE GREEN", 
+
+  "lloyds_id": "9810915", 
+
+  "vsl_operator": "CMA CGM", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "RPCQN", 
+
+  "out_voyage": "RPCQN", 
+
+  "eta_date": " 05/03/23", 
+
+  "eta_time": "19:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/04/23", 
+
+  "etd_time": "06:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": " 04/23/23", 
+
+  "dry_brd_time": "17:01", 
+
+  "reefer_brd_date": " 04/23/23", 
+
+  "reefer_brd_time": "17:01", 
+
+  "reefer_cutoff_date": " 05/02/23", 
+
+  "reefer_cutoff_time": "16:00", 
+
+  "cargo_cutoff_date": " 05/02/23", 
+
+  "cargo_cutoff_time": "16:00", 
+
+  "haz_cutoff_date": " 05/02/23", 
+
+  "haz_cutoff_time": "16:00", 
+
+  "is_locked": "Yes", 
+
+  "lines": [  {
+
+    "lname": "APL (APL LIMITED)", 
+
+    "dry_brd_date": " 04/23/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 04/23/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 05/02/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 05/02/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 05/02/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+ ,{
+
+    "lname": "CMA CGM", 
+
+    "dry_brd_date": " 04/23/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 04/23/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 05/02/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 05/02/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 05/02/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "RTWSB", 
+
+  "name": "SEATRADE RED", 
+
+  "lloyds_id": "9690107", 
+
+  "vsl_operator": "CMA CGM", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "RPD5S", 
+
+  "out_voyage": "RPD5S", 
+
+  "eta_date": " 05/04/23", 
+
+  "eta_time": "13:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/04/23", 
+
+  "etd_time": "23:59", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": " 04/24/23", 
+
+  "dry_brd_time": "17:01", 
+
+  "reefer_brd_date": " 04/24/23", 
+
+  "reefer_brd_time": "17:01", 
+
+  "reefer_cutoff_date": " 05/03/23", 
+
+  "reefer_cutoff_time": "16:00", 
+
+  "cargo_cutoff_date": " 05/03/23", 
+
+  "cargo_cutoff_time": "16:00", 
+
+  "haz_cutoff_date": " 05/03/23", 
+
+  "haz_cutoff_time": "16:00", 
+
+  "is_locked": "Yes", 
+
+  "lines": [  {
+
+    "lname": "CMA CGM", 
+
+    "dry_brd_date": " 04/24/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 04/24/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 05/03/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 05/03/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 05/03/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+ ,{
+
+    "lname": "MARFRET USA INC", 
+
+    "dry_brd_date": " 04/24/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 04/24/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 05/03/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 05/03/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 05/03/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "SAE", 
+
+  "name": "MAERSK VENEZIA", 
+
+  "lloyds_id": "9344681", 
+
+  "vsl_operator": "SEALAND", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "317S", 
+
+  "out_voyage": "317S", 
+
+  "eta_date": " 05/05/23", 
+
+  "eta_time": "06:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/05/23", 
+
+  "etd_time": "18:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": " 04/25/23", 
+
+  "dry_brd_time": "17:01", 
+
+  "reefer_brd_date": " 04/25/23", 
+
+  "reefer_brd_time": "17:01", 
+
+  "reefer_cutoff_date": " 05/04/23", 
+
+  "reefer_cutoff_time": "16:00", 
+
+  "cargo_cutoff_date": " 05/04/23", 
+
+  "cargo_cutoff_time": "16:00", 
+
+  "haz_cutoff_date": " 05/04/23", 
+
+  "haz_cutoff_time": "16:00", 
+
+  "is_locked": "Yes", 
+
+  "lines": [  {
+
+    "lname": "MAERSK A/S DBA HAMBURG SUD", 
+
+    "dry_brd_date": " 04/25/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 04/25/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 05/04/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 05/04/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 05/04/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+ ,{
+
+    "lname": "MAERSK", 
+
+    "dry_brd_date": " 04/25/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 04/25/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 05/04/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 05/04/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 05/04/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+ ,{
+
+    "lname": "SEALAND", 
+
+    "dry_brd_date": " 04/25/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 04/25/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 05/04/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 05/04/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 05/04/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "WLFNA", 
+
+  "name": "ANIARA", 
+
+  "lloyds_id": "9377494", 
+
+  "vsl_operator": "WALLENIUS WILHELMSEN", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "AG303", 
+
+  "out_voyage": "AG303", 
+
+  "eta_date": " 05/05/23", 
+
+  "eta_time": "07:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/05/23", 
+
+  "etd_time": "18:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": "", 
+
+  "dry_brd_time": "", 
+
+  "reefer_brd_date": "", 
+
+  "reefer_brd_time": "", 
+
+  "reefer_cutoff_date": "", 
+
+  "reefer_cutoff_time": "", 
+
+  "cargo_cutoff_date": "", 
+
+  "cargo_cutoff_time": "", 
+
+  "haz_cutoff_date": "", 
+
+  "haz_cutoff_time": "", 
+
+  "is_locked": "No", 
+
+  "lines": [    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "NAE ACX", 
+
+  "name": "POLAR MEXICO", 
+
+  "lloyds_id": "9786750", 
+
+  "vsl_operator": "SEALAND", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "316N", 
+
+  "out_voyage": "318S", 
+
+  "eta_date": " 05/05/23", 
+
+  "eta_time": "13:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/06/23", 
+
+  "etd_time": "18:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": " 04/25/23", 
+
+  "dry_brd_time": "17:01", 
+
+  "reefer_brd_date": " 04/25/23", 
+
+  "reefer_brd_time": "17:01", 
+
+  "reefer_cutoff_date": " 05/04/23", 
+
+  "reefer_cutoff_time": "16:00", 
+
+  "cargo_cutoff_date": " 05/04/23", 
+
+  "cargo_cutoff_time": "16:00", 
+
+  "haz_cutoff_date": " 05/04/23", 
+
+  "haz_cutoff_time": "16:00", 
+
+  "is_locked": "Yes", 
+
+  "lines": [  {
+
+    "lname": "MAERSK A/S DBA HAMBURG SUD", 
+
+    "dry_brd_date": " 04/25/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 04/25/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 05/04/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 05/04/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 05/04/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+ ,{
+
+    "lname": "MAERSK", 
+
+    "dry_brd_date": " 04/25/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 04/25/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 05/04/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 05/04/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 05/04/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+ ,{
+
+    "lname": "SEALAND", 
+
+    "dry_brd_date": " 04/25/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 04/25/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 05/04/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 05/04/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 05/04/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "WLANZ", 
+
+  "name": "TIRRANNA", 
+
+  "lloyds_id": "9377523", 
+
+  "vsl_operator": "WALLENIUS WILHELMSEN", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "EF308", 
+
+  "out_voyage": "EF308", 
+
+  "eta_date": " 05/06/23", 
+
+  "eta_time": "06:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/07/23", 
+
+  "etd_time": "12:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": " 05/06/23", 
+
+  "dry_brd_time": "06:00", 
+
+  "reefer_brd_date": " 05/06/23", 
+
+  "reefer_brd_time": "06:00", 
+
+  "reefer_cutoff_date": "", 
+
+  "reefer_cutoff_time": "", 
+
+  "cargo_cutoff_date": "", 
+
+  "cargo_cutoff_time": "", 
+
+  "haz_cutoff_date": "", 
+
+  "haz_cutoff_time": "", 
+
+  "is_locked": "No", 
+
+  "lines": [    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "KONE", 
+
+  "name": "SAMPOGRACHT", 
+
+  "lloyds_id": "9288071", 
+
+  "vsl_operator": "SPLIETHOFF", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "2306", 
+
+  "out_voyage": "2306", 
+
+  "eta_date": " 05/07/23", 
+
+  "eta_time": "07:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/08/23", 
+
+  "etd_time": "06:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": "", 
+
+  "dry_brd_time": "", 
+
+  "reefer_brd_date": "", 
+
+  "reefer_brd_time": "", 
+
+  "reefer_cutoff_date": "", 
+
+  "reefer_cutoff_time": "", 
+
+  "cargo_cutoff_date": "", 
+
+  "cargo_cutoff_time": "", 
+
+  "haz_cutoff_date": "", 
+
+  "haz_cutoff_time": "", 
+
+  "is_locked": "No", 
+
+  "lines": [    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "WLANZ", 
+
+  "name": "MORNING COMPOSER", 
+
+  "lloyds_id": "9336074", 
+
+  "vsl_operator": "WALLENIUS WILHELMSEN", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "AS360", 
+
+  "out_voyage": "AS360", 
+
+  "eta_date": " 05/08/23", 
+
+  "eta_time": "07:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/08/23", 
+
+  "etd_time": "18:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": "", 
+
+  "dry_brd_time": "", 
+
+  "reefer_brd_date": "", 
+
+  "reefer_brd_time": "", 
+
+  "reefer_cutoff_date": "", 
+
+  "reefer_cutoff_time": "", 
+
+  "cargo_cutoff_date": "", 
+
+  "cargo_cutoff_time": "", 
+
+  "haz_cutoff_date": "", 
+
+  "haz_cutoff_time": "", 
+
+  "is_locked": "No", 
+
+  "lines": [    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "CAGEMA", 
+
+  "name": "TAMPA TRADER", 
+
+  "lloyds_id": "9675834", 
+
+  "vsl_operator": "CMA CGM", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "CAB4N", 
+
+  "out_voyage": "CAB9S", 
+
+  "eta_date": " 05/09/23", 
+
+  "eta_time": "07:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/09/23", 
+
+  "etd_time": "18:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": " 04/29/23", 
+
+  "dry_brd_time": "17:01", 
+
+  "reefer_brd_date": " 04/29/23", 
+
+  "reefer_brd_time": "17:01", 
+
+  "reefer_cutoff_date": " 05/08/23", 
+
+  "reefer_cutoff_time": "16:00", 
+
+  "cargo_cutoff_date": " 05/08/23", 
+
+  "cargo_cutoff_time": "16:00", 
+
+  "haz_cutoff_date": " 05/08/23", 
+
+  "haz_cutoff_time": "16:00", 
+
+  "is_locked": "Tomorrow", 
+
+  "lines": [  {
+
+    "lname": "CMA CGM", 
+
+    "dry_brd_date": " 04/29/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 04/29/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 05/08/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 05/08/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 05/08/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "G2ENAMEDOT", 
+
+  "name": "BERGE GALDHOPIGGEN", 
+
+  "lloyds_id": "9753284", 
+
+  "vsl_operator": "G2 OCEAN (G2 OCEAN US, INC)", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "2303", 
+
+  "out_voyage": "2303", 
+
+  "eta_date": " 05/09/23", 
+
+  "eta_time": "07:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/11/23", 
+
+  "etd_time": "18:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": "", 
+
+  "dry_brd_time": "", 
+
+  "reefer_brd_date": "", 
+
+  "reefer_brd_time": "", 
+
+  "reefer_cutoff_date": "", 
+
+  "reefer_cutoff_time": "", 
+
+  "cargo_cutoff_date": "", 
+
+  "cargo_cutoff_time": "", 
+
+  "haz_cutoff_date": "", 
+
+  "haz_cutoff_time": "", 
+
+  "is_locked": "No", 
+
+  "lines": [    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "RTWNB", 
+
+  "name": "MATHILDE SCHULTE", 
+
+  "lloyds_id": "9676709", 
+
+  "vsl_operator": "CMA CGM", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "RPCSN", 
+
+  "out_voyage": "RPCSN", 
+
+  "eta_date": " 05/10/23", 
+
+  "eta_time": "06:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/10/23", 
+
+  "etd_time": "18:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": " 04/30/23", 
+
+  "dry_brd_time": "17:01", 
+
+  "reefer_brd_date": " 04/30/23", 
+
+  "reefer_brd_time": "17:01", 
+
+  "reefer_cutoff_date": " 05/09/23", 
+
+  "reefer_cutoff_time": "16:00", 
+
+  "cargo_cutoff_date": " 05/09/23", 
+
+  "cargo_cutoff_time": "16:00", 
+
+  "haz_cutoff_date": " 05/09/23", 
+
+  "haz_cutoff_time": "16:00", 
+
+  "is_locked": "No", 
+
+  "lines": [  {
+
+    "lname": "CMA CGM", 
+
+    "dry_brd_date": " 04/30/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 04/30/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 05/09/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 05/09/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 05/09/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "WLFNA", 
+
+  "name": "TAMESIS", 
+
+  "lloyds_id": "9191307", 
+
+  "vsl_operator": "WALLENIUS WILHELMSEN", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "AF326", 
+
+  "out_voyage": "AF326", 
+
+  "eta_date": " 05/11/23", 
+
+  "eta_time": "07:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/12/23", 
+
+  "etd_time": "18:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": "", 
+
+  "dry_brd_time": "", 
+
+  "reefer_brd_date": "", 
+
+  "reefer_brd_time": "", 
+
+  "reefer_cutoff_date": "", 
+
+  "reefer_cutoff_time": "", 
+
+  "cargo_cutoff_date": "", 
+
+  "cargo_cutoff_time": "", 
+
+  "haz_cutoff_date": "", 
+
+  "haz_cutoff_time": "", 
+
+  "is_locked": "No", 
+
+  "lines": [    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "SAE", 
+
+  "name": "GALANI", 
+
+  "lloyds_id": "9337597", 
+
+  "vsl_operator": "SEALAND", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "318S", 
+
+  "out_voyage": "318S", 
+
+  "eta_date": " 05/12/23", 
+
+  "eta_time": "06:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/12/23", 
+
+  "etd_time": "18:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": " 05/02/23", 
+
+  "dry_brd_time": "17:01", 
+
+  "reefer_brd_date": " 05/02/23", 
+
+  "reefer_brd_time": "17:01", 
+
+  "reefer_cutoff_date": " 05/11/23", 
+
+  "reefer_cutoff_time": "16:00", 
+
+  "cargo_cutoff_date": " 05/11/23", 
+
+  "cargo_cutoff_time": "16:00", 
+
+  "haz_cutoff_date": " 05/11/23", 
+
+  "haz_cutoff_time": "16:00", 
+
+  "is_locked": "No", 
+
+  "lines": [  {
+
+    "lname": "MAERSK A/S DBA HAMBURG SUD", 
+
+    "dry_brd_date": " 05/02/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 05/02/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 05/11/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 05/11/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 05/11/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+ ,{
+
+    "lname": "MAERSK", 
+
+    "dry_brd_date": " 05/02/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 05/02/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 05/11/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 05/11/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 05/11/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+ ,{
+
+    "lname": "SEALAND", 
+
+    "dry_brd_date": " 05/02/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 05/02/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 05/11/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 05/11/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 05/11/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "NAE ACX", 
+
+  "name": "POLAR COSTA RICA", 
+
+  "lloyds_id": "9786786", 
+
+  "vsl_operator": "SEALAND", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "317N", 
+
+  "out_voyage": "319S", 
+
+  "eta_date": " 05/12/23", 
+
+  "eta_time": "06:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/12/23", 
+
+  "etd_time": "18:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": " 05/12/23", 
+
+  "dry_brd_time": "06:00", 
+
+  "reefer_brd_date": " 05/12/23", 
+
+  "reefer_brd_time": "06:00", 
+
+  "reefer_cutoff_date": "", 
+
+  "reefer_cutoff_time": "", 
+
+  "cargo_cutoff_date": "", 
+
+  "cargo_cutoff_time": "", 
+
+  "haz_cutoff_date": "", 
+
+  "haz_cutoff_time": "", 
+
+  "is_locked": "No", 
+
+  "lines": [    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "WLFNA", 
+
+  "name": "PARSIFAL", 
+
+  "lloyds_id": "9515395", 
+
+  "vsl_operator": "WALLENIUS WILHELMSEN", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "AF327", 
+
+  "out_voyage": "NF327", 
+
+  "eta_date": " 05/14/23", 
+
+  "eta_time": "06:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/15/23", 
+
+  "etd_time": "18:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": " 05/11/23", 
+
+  "dry_brd_time": "06:00", 
+
+  "reefer_brd_date": " 05/11/23", 
+
+  "reefer_brd_time": "06:00", 
+
+  "reefer_cutoff_date": "", 
+
+  "reefer_cutoff_time": "", 
+
+  "cargo_cutoff_date": "", 
+
+  "cargo_cutoff_time": "", 
+
+  "haz_cutoff_date": "", 
+
+  "haz_cutoff_time": "", 
+
+  "is_locked": "No", 
+
+  "lines": [    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "RTWSB", 
+
+  "name": "MANDALAY", 
+
+  "lloyds_id": "9743502", 
+
+  "vsl_operator": "CMA CGM", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "RPD7S", 
+
+  "out_voyage": "RPD7S", 
+
+  "eta_date": " 05/14/23", 
+
+  "eta_time": "06:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/14/23", 
+
+  "etd_time": "18:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": " 05/04/23", 
+
+  "dry_brd_time": "17:01", 
+
+  "reefer_brd_date": " 05/04/23", 
+
+  "reefer_brd_time": "17:01", 
+
+  "reefer_cutoff_date": " 05/13/23", 
+
+  "reefer_cutoff_time": "16:00", 
+
+  "cargo_cutoff_date": " 05/13/23", 
+
+  "cargo_cutoff_time": "16:00", 
+
+  "haz_cutoff_date": " 05/13/23", 
+
+  "haz_cutoff_time": "16:00", 
+
+  "is_locked": "No", 
+
+  "lines": [  {
+
+    "lname": "CMA CGM", 
+
+    "dry_brd_date": " 05/04/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 05/04/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 05/13/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 05/13/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 05/13/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+ ,{
+
+    "lname": "MARFRET USA INC", 
+
+    "dry_brd_date": " 05/04/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 05/04/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 05/13/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 05/13/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 05/13/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "CAGEMA", 
+
+  "name": "CONTSHIP BEE", 
+
+  "lloyds_id": "9364344", 
+
+  "vsl_operator": "CMA CGM", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "CAB6N", 
+
+  "out_voyage": "CABBS", 
+
+  "eta_date": " 05/15/23", 
+
+  "eta_time": "19:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/16/23", 
+
+  "etd_time": "18:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": " 05/05/23", 
+
+  "dry_brd_time": "17:01", 
+
+  "reefer_brd_date": " 05/05/23", 
+
+  "reefer_brd_time": "17:01", 
+
+  "reefer_cutoff_date": " 05/14/23", 
+
+  "reefer_cutoff_time": "16:00", 
+
+  "cargo_cutoff_date": " 05/14/23", 
+
+  "cargo_cutoff_time": "16:00", 
+
+  "haz_cutoff_date": " 05/14/23", 
+
+  "haz_cutoff_time": "16:00", 
+
+  "is_locked": "No", 
+
+  "lines": [  {
+
+    "lname": "CMA CGM", 
+
+    "dry_brd_date": " 05/05/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 05/05/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 05/14/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 05/14/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 05/14/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "SMJS", 
+
+  "name": "AS SABRINA", 
+
+  "lloyds_id": "9387463", 
+
+  "vsl_operator": "SEABOARD MARINE LTD", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "00096", 
+
+  "out_voyage": "00097", 
+
+  "eta_date": " 05/16/23", 
+
+  "eta_time": "06:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/16/23", 
+
+  "etd_time": "18:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": " 05/06/23", 
+
+  "dry_brd_time": "17:01", 
+
+  "reefer_brd_date": " 05/06/23", 
+
+  "reefer_brd_time": "17:01", 
+
+  "reefer_cutoff_date": " 05/15/23", 
+
+  "reefer_cutoff_time": "16:00", 
+
+  "cargo_cutoff_date": " 05/15/23", 
+
+  "cargo_cutoff_time": "16:00", 
+
+  "haz_cutoff_date": " 05/15/23", 
+
+  "haz_cutoff_time": "16:00", 
+
+  "is_locked": "No", 
+
+  "lines": [  {
+
+    "lname": "SEABOARD MARINE LTD", 
+
+    "dry_brd_date": " 05/06/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 05/06/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 05/15/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 05/15/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 05/15/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "WLANZ", 
+
+  "name": "TAMERLANE", 
+
+  "lloyds_id": "9218648", 
+
+  "vsl_operator": "WALLENIUS WILHELMSEN", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "EF309", 
+
+  "out_voyage": "EF309", 
+
+  "eta_date": " 05/16/23", 
+
+  "eta_time": "06:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/16/23", 
+
+  "etd_time": "18:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": " 05/16/23", 
+
+  "dry_brd_time": "06:00", 
+
+  "reefer_brd_date": " 05/16/23", 
+
+  "reefer_brd_time": "06:00", 
+
+  "reefer_cutoff_date": "", 
+
+  "reefer_cutoff_time": "", 
+
+  "cargo_cutoff_date": "", 
+
+  "cargo_cutoff_time": "", 
+
+  "haz_cutoff_date": "", 
+
+  "haz_cutoff_time": "", 
+
+  "is_locked": "No", 
+
+  "lines": [    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "RTWNB", 
+
+  "name": "CMA CGM ABU DHABI", 
+
+  "lloyds_id": "9802499", 
+
+  "vsl_operator": "CMA CGM", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "RPCON", 
+
+  "out_voyage": "RPCON", 
+
+  "eta_date": " 05/17/23", 
+
+  "eta_time": "06:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/17/23", 
+
+  "etd_time": "18:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": " 05/07/23", 
+
+  "dry_brd_time": "17:01", 
+
+  "reefer_brd_date": " 05/07/23", 
+
+  "reefer_brd_time": "17:01", 
+
+  "reefer_cutoff_date": " 05/16/23", 
+
+  "reefer_cutoff_time": "16:00", 
+
+  "cargo_cutoff_date": " 05/16/23", 
+
+  "cargo_cutoff_time": "16:00", 
+
+  "haz_cutoff_date": " 05/16/23", 
+
+  "haz_cutoff_time": "16:00", 
+
+  "is_locked": "No", 
+
+  "lines": [    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "RTWSB", 
+
+  "name": "SEATRADE ORANGE", 
+
+  "lloyds_id": "9690092", 
+
+  "vsl_operator": "CMA CGM", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "RPD9S", 
+
+  "out_voyage": "RPD9S", 
+
+  "eta_date": " 05/18/23", 
+
+  "eta_time": "06:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/18/23", 
+
+  "etd_time": "18:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": " 05/08/23", 
+
+  "dry_brd_time": "17:01", 
+
+  "reefer_brd_date": " 05/08/23", 
+
+  "reefer_brd_time": "17:01", 
+
+  "reefer_cutoff_date": " 05/17/23", 
+
+  "reefer_cutoff_time": "16:00", 
+
+  "cargo_cutoff_date": " 05/17/23", 
+
+  "cargo_cutoff_time": "16:00", 
+
+  "haz_cutoff_date": " 05/17/23", 
+
+  "haz_cutoff_time": "16:00", 
+
+  "is_locked": "No", 
+
+  "lines": [  {
+
+    "lname": "CMA CGM", 
+
+    "dry_brd_date": " 05/08/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 05/08/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 05/17/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 05/17/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 05/17/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "NAE ACX", 
+
+  "name": "POLAR BRASIL", 
+
+  "lloyds_id": "9797216", 
+
+  "vsl_operator": "SEALAND", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "318N", 
+
+  "out_voyage": "320S", 
+
+  "eta_date": " 05/19/23", 
+
+  "eta_time": "06:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/19/23", 
+
+  "etd_time": "18:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": " 05/09/23", 
+
+  "dry_brd_time": "17:01", 
+
+  "reefer_brd_date": " 05/09/23", 
+
+  "reefer_brd_time": "17:01", 
+
+  "reefer_cutoff_date": " 05/18/23", 
+
+  "reefer_cutoff_time": "16:00", 
+
+  "cargo_cutoff_date": " 05/18/23", 
+
+  "cargo_cutoff_time": "16:00", 
+
+  "haz_cutoff_date": " 05/18/23", 
+
+  "haz_cutoff_time": "16:00", 
+
+  "is_locked": "No", 
+
+  "lines": [  {
+
+    "lname": "MAERSK A/S DBA HAMBURG SUD", 
+
+    "dry_brd_date": " 05/09/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 05/09/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 05/18/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 05/18/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 05/18/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+ ,{
+
+    "lname": "MAERSK", 
+
+    "dry_brd_date": " 05/09/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 05/09/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 05/18/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 05/18/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 05/18/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+ ,{
+
+    "lname": "SEALAND", 
+
+    "dry_brd_date": " 05/09/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 05/09/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 05/18/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 05/18/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 05/18/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "SAE", 
+
+  "name": "SAN AMERIGO", 
+
+  "lloyds_id": "9344693", 
+
+  "vsl_operator": "SEALAND", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "319S", 
+
+  "out_voyage": "319S", 
+
+  "eta_date": " 05/19/23", 
+
+  "eta_time": "07:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/19/23", 
+
+  "etd_time": "18:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": " 05/09/23", 
+
+  "dry_brd_time": "17:01", 
+
+  "reefer_brd_date": " 05/09/23", 
+
+  "reefer_brd_time": "17:01", 
+
+  "reefer_cutoff_date": " 05/18/23", 
+
+  "reefer_cutoff_time": "16:00", 
+
+  "cargo_cutoff_date": " 05/18/23", 
+
+  "cargo_cutoff_time": "16:00", 
+
+  "haz_cutoff_date": " 05/18/23", 
+
+  "haz_cutoff_time": "16:00", 
+
+  "is_locked": "No", 
+
+  "lines": [  {
+
+    "lname": "SEALAND", 
+
+    "dry_brd_date": " 05/09/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 05/09/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 05/18/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 05/18/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 05/18/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "WLFNA", 
+
+  "name": "THERMOPYLAE", 
+
+  "lloyds_id": "9702443", 
+
+  "vsl_operator": "WALLENIUS", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "AG302", 
+
+  "out_voyage": "NX319", 
+
+  "eta_date": " 05/19/23", 
+
+  "eta_time": "07:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/20/23", 
+
+  "etd_time": "18:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": "", 
+
+  "dry_brd_time": "", 
+
+  "reefer_brd_date": "", 
+
+  "reefer_brd_time": "", 
+
+  "reefer_cutoff_date": "", 
+
+  "reefer_cutoff_time": "", 
+
+  "cargo_cutoff_date": "", 
+
+  "cargo_cutoff_time": "", 
+
+  "haz_cutoff_date": "", 
+
+  "haz_cutoff_time": "", 
+
+  "is_locked": "No", 
+
+  "lines": [    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "NAE ACX", 
+
+  "name": "MAERSK ACADIA", 
+
+  "lloyds_id": "9928188", 
+
+  "vsl_operator": "SEALAND", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "318N", 
+
+  "out_voyage": "320S", 
+
+  "eta_date": " 05/19/23", 
+
+  "eta_time": "13:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/20/23", 
+
+  "etd_time": "18:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": " 05/09/23", 
+
+  "dry_brd_time": "17:01", 
+
+  "reefer_brd_date": " 05/09/23", 
+
+  "reefer_brd_time": "17:01", 
+
+  "reefer_cutoff_date": " 05/18/23", 
+
+  "reefer_cutoff_time": "16:00", 
+
+  "cargo_cutoff_date": " 05/18/23", 
+
+  "cargo_cutoff_time": "16:00", 
+
+  "haz_cutoff_date": " 05/18/23", 
+
+  "haz_cutoff_time": "16:00", 
+
+  "is_locked": "No", 
+
+  "lines": [    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "CAGEMA", 
+
+  "name": "HAMBURG TRADER", 
+
+  "lloyds_id": "9316098", 
+
+  "vsl_operator": "CMA CGM", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "CAB8N", 
+
+  "out_voyage": "CABDS", 
+
+  "eta_date": " 05/23/23", 
+
+  "eta_time": "06:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/23/23", 
+
+  "etd_time": "18:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": " 05/13/23", 
+
+  "dry_brd_time": "17:01", 
+
+  "reefer_brd_date": " 05/13/23", 
+
+  "reefer_brd_time": "17:01", 
+
+  "reefer_cutoff_date": " 05/22/23", 
+
+  "reefer_cutoff_time": "16:00", 
+
+  "cargo_cutoff_date": " 05/22/23", 
+
+  "cargo_cutoff_time": "16:00", 
+
+  "haz_cutoff_date": " 05/22/23", 
+
+  "haz_cutoff_time": "16:00", 
+
+  "is_locked": "No", 
+
+  "lines": [  {
+
+    "lname": "CMA CGM", 
+
+    "dry_brd_date": " 05/13/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 05/13/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 05/22/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 05/22/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 05/22/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "RTWNB", 
+
+  "name": "SEATRADE BLUE", 
+
+  "lloyds_id": "9756107", 
+
+  "vsl_operator": "CMA CGM", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "RPCUN", 
+
+  "out_voyage": "RPCUN", 
+
+  "eta_date": " 05/24/23", 
+
+  "eta_time": "06:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/24/23", 
+
+  "etd_time": "18:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": " 05/14/23", 
+
+  "dry_brd_time": "17:01", 
+
+  "reefer_brd_date": " 05/14/23", 
+
+  "reefer_brd_time": "17:01", 
+
+  "reefer_cutoff_date": " 05/23/23", 
+
+  "reefer_cutoff_time": "16:00", 
+
+  "cargo_cutoff_date": " 05/23/23", 
+
+  "cargo_cutoff_time": "16:00", 
+
+  "haz_cutoff_date": " 05/23/23", 
+
+  "haz_cutoff_time": "16:00", 
+
+  "is_locked": "No", 
+
+  "lines": [    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "ARCSAV", 
+
+  "name": "ARC COMMITMENT", 
+
+  "lloyds_id": "9505039", 
+
+  "vsl_operator": "AMERICAN ROLL-ON ROLL-OFF CARRIER", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "NX319", 
+
+  "out_voyage": "NX319", 
+
+  "eta_date": " 05/24/23", 
+
+  "eta_time": "07:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/24/23", 
+
+  "etd_time": "18:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": " 05/08/23", 
+
+  "dry_brd_time": "17:01", 
+
+  "reefer_brd_date": " 05/08/23", 
+
+  "reefer_brd_time": "17:01", 
+
+  "reefer_cutoff_date": "", 
+
+  "reefer_cutoff_time": "", 
+
+  "cargo_cutoff_date": "", 
+
+  "cargo_cutoff_time": "", 
+
+  "haz_cutoff_date": "", 
+
+  "haz_cutoff_time": "", 
+
+  "is_locked": "No", 
+
+  "lines": [    ]  }
+
+
+ ,{
+
+  "grouping": "Vessel To Come", 
+
+  "terminal": "OT", 
+
+  "service": "RTWSB", 
+
+  "name": "MARIUS", 
+
+  "lloyds_id": "9802504", 
+
+  "vsl_operator": "MARFRET USA INC", 
+
+  "status": "CREATED", 
+
+  "in_voyage": "3419", 
+
+  "out_voyage": "3419", 
+
+  "eta_date": " 05/25/23", 
+
+  "eta_time": "06:00", 
+
+  "ata_date": "", 
+
+  "ata_time": "", 
+
+  "etd_date": " 05/25/23", 
+
+  "etd_time": "18:00", 
+
+  "atd_date": "", 
+
+  "atd_time": "", 
+
+  "berth": "", 
+
+  "vessel_class": " -", 
+
+  "dry_brd_date": " 05/15/23", 
+
+  "dry_brd_time": "17:01", 
+
+  "reefer_brd_date": " 05/15/23", 
+
+  "reefer_brd_time": "17:01", 
+
+  "reefer_cutoff_date": " 05/24/23", 
+
+  "reefer_cutoff_time": "16:00", 
+
+  "cargo_cutoff_date": " 05/24/23", 
+
+  "cargo_cutoff_time": "16:00", 
+
+  "haz_cutoff_date": " 05/24/23", 
+
+  "haz_cutoff_time": "16:00", 
+
+  "is_locked": "No", 
+
+  "lines": [  {
+
+    "lname": "CMA CGM", 
+
+    "dry_brd_date": " 05/15/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 05/15/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 05/24/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 05/24/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 05/24/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+ ,{
+
+    "lname": "MARFRET USA INC", 
+
+    "dry_brd_date": " 05/15/23", 
+
+    "dry_brd_time": "17:01", 
+
+    "reefer_brd_date": " 05/15/23", 
+
+    "reefer_brd_time": "17:01", 
+
+    "reefer_cutoff_date": " 05/24/23", 
+
+    "reefer_cutoff_time": "16:00", 
+
+    "cargo_cutoff_date": " 05/24/23", 
+
+    "cargo_cutoff_time": "16:00", 
+
+    "haz_cutoff_date": " 05/24/23", 
+
+    "haz_cutoff_time": "16:00" 
+
+  }
+
+    ]  }
+
+
+], "extracted" : ["04/27/23 11:50:05"
+
+
+ ]  } 
